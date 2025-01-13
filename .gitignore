@@ -1,0 +1,39 @@
+.DS_Store
+.idea/
+
+# __init__.py
+
+# .gitignore
+# data/
+data_origin/
+log/
+checkpoints/
+docs/
+test/
+__pycache__/
+wandb/
+last-run/
+run-*/
+useless/                 
+*.out
+data_anal
+data_analysis/
+AttentionRes/
+old_log/
+testing_log
+.aim/
+.vscode/
+.testing_log/
+
+Failed_things/*
+GCL/* 
+
+log_before_1218/*
+
+useless_code/* 
+
+*.sh
+
+old_logs/*
+
+*.zip
